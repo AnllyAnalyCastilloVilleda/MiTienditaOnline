@@ -27,7 +27,7 @@ Antes de comenzar, asegúrate de tener instalados los siguientes requisitos:
 ### Clonar el Repositorio
 Clona este repositorio en tu máquina local:
 ```bash
-git clone https://github.com/AnllyAnalyCastilloVilleda/mitienditaonline.git 
+git clone https://github.com/AnllyAnalyCastilloVilleda/MiTienditaOnline.git
 ```
 
 ### Instalar Dependencias Necesarias
